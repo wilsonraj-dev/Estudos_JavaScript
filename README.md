@@ -10,3 +10,6 @@ Repositório criado com o intuito de estudar os fundamentos da linguagem JavaScr
 - Objeto
 - Array
 - Lista de Execícios Práticos
+
+## 👨🏻‍💻🖱️ Prática
+<img alt="Pratica." src="img/CodigoPratico.png" align="center"/>
